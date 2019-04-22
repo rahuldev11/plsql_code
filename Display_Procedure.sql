@@ -3,4 +3,5 @@ is
 begin
 dbms_output.put_line (s);
 end display;
+/*This is a practise purpose*/ 
 /
